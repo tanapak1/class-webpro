@@ -1,0 +1,25 @@
+body{background-color: #000000; font-size: 120%; font-family: courier; padding-left: 1em}
+#h01{color: #D7BDE2; padding-left: 1em}
+#h02{color: #A9CCE3; padding-left: 1em}
+#h03{color: #A3E4D7; padding-left: 1em}
+#h04{color: #A9DFBF; padding-left: 1em}
+#h05{color: #F9E79F; padding-left: 1em}
+p{color: #FF0000; padding-left: 1em}
+address{color: #FFFF00; margin-left: 50px}
+pre{color: #FFFFFF;}
+bdo{color: #FF00FF; padding-left: 1em}
+#i01{color: #00FF00; padding-left: 1em}
+ul{list-style-type: square}
+cite{color: lime; font-size: 120%}
+a:link    {color: green; background-color: transparent; text-decoration: none}
+a:visited {color: pink; background-color: transparent; text-decoration: none}
+a:hover   {color: red; background-color: transparent; text-decoration: underline}
+a:active  {color: yellow; background-color: transparent; text-decoration: underline}
+form{color: white}
+#pita{font-style: italic}
+header{padding-left: 1em; color: #F39C12; text-align: center; font-size: 200%; font-weight: bold; clear: left;}
+footer{padding-left: 1em; color: #3498DB; font-size: 80%}
+nav{padding-left: 1em}
+article{padding-left: 1em}
+img{padding-left: 3em}
+th{border: 1px solid white;}
